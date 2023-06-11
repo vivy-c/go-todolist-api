@@ -9,7 +9,7 @@ This is a simple to do list services in Go. It provides a basic structure and co
 -	[GORM](gorm.io/gorm) for database operation
 - PostgreSql for database
 
-I'am build a service to manage to do list golang, using mysql for database. This service has database migration, logging, and unit testing.
+I'am build a service to manage to do list golang, using postgresql for database. This service has database migration, logging, and unit testing.
 
 I created 4 endpoints :
 
